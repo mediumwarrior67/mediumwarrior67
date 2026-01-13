@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Isometric Contribution Calendar</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            padding: 20px;
+            overflow-x: hidden;
+        }
+
+        .container {
+            max-width: 1200px;
+            width: 100%;
+            background: rgba(22, 27, 34, 0.8);
+            border-radius: 20px;
+            padding: 40px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.5);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(54, 188, 247, 0.1);
+        }
+
+        h1 {
+            color: #36BCF7;
+            text-align: center;
+            margin-bottom: 30px;
+            font-size: 2.5em;
+            text-shadow: 0 0 20px rgba(54, 188, 247, 0.5);
+            animation: glow 2s ease-in-out infinite alternate;
+        }
+
+        @keyframes glow {
+            from { text-shadow: 0 0 20px rgba(54, 188, 247, 0.5); }
+            to { text-shadow: 0 0 30px rgba(54, 188, 247, 0.8); }
+        }
+
+        .calendar-wrapper {
+            perspective: 1500px;
+            display: flex;
+            justify-content: center;
+            margin: 40px 0;
+        }
+
+        .calendar {
+            display: grid;
+            grid-template-columns: repeat(52, 1fr);
+            gap: 4px;
+            transform: rotateX(45deg) rotateZ(45deg);
+            transform-style: preserve-3d;
+            padding: 20px;
+        }
+
+        .day {
+            width: 15px;
+            height: 15px;
+            position: relative;
+            transition: all 0.3s ease;
+            cursor: pointer;
+        }
+
+        .day::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: var(--color, #161b22);
+            border: 1px solid rgba(54, 188, 247, 0.2);
+            border-radius: 2px;
+            transition: all 0.3s ease;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+        }
+
+        .day:hover {
+            transform: translateZ(20px) scale(1.1);
+            z-index: 10;
+        }
+
+        .day:hover::before {
+            box-shadow: 0 10px 30px rgba(54, 188, 247, 0.6);
+            border-color: #36BCF7;
+        }
+
+        /* Contribution levels */
+        .day.level-0::before { background: #161b22; }
+        .day.level-1::before { background: #0e4429; box-shadow: 0 0 10px rgba(14, 68, 41, 0.5); }
+        .day.level-2::before { background: #006d32; box-shadow: 0 0 15px rgba(0, 109, 50, 0.6); }
+        .day.level-3::before { background: #26a641; box-shadow: 0 0 20px rgba(38, 166, 65, 0.7); }
+        .day.level-4::before { background: #39d353; box-shadow: 0 0 25px rgba(57, 211, 83, 0.8); }
+
+        .stats {
+            display: flex;
+            justify-content: space-around;
+            margin-top: 50px;
+            flex-wrap: wrap;
+            gap: 20px;
+        }
+
+        .stat-card {
+            flex: 1;
+            min-width: 200px;
+            background: linear-gradient(135deg, rgba(54, 188, 247, 0.1) 0%, rgba(54, 188, 247, 0.05) 100%);
+            padding: 25px;
+            border-radius: 15px;
+            border: 1px solid rgba(54, 188, 247, 0.3);
+            text-align: center;
+            transition: all 0.3s ease;
+            animation: fadeIn 1s ease-in;
+        }
+
+        .stat-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 30px rgba(54, 188, 247, 0.3);
+            border-color: #36BCF7;
+        }
+
+        .stat-value {
+            font-size: 2.5em;
+            color: #36BCF7;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+
+        .stat-label {
+            color: #C9D1D9;
+            font-size: 1em;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+
+        .legend {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 15px;
+            margin-top: 30px;
+            flex-wrap: wrap;
+        }
+
+        .legend-item {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            color: #C9D1D9;
+            font-size: 0.9em;
+        }
+
+        .legend-box {
+            width: 15px;
+            height: 15px;
+            border-radius: 3px;
+            border: 1px solid rgba(54, 188, 247, 0.3);
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .tooltip {
+            position: fixed;
+            background: rgba(22, 27, 34, 0.95);
+            color: #36BCF7;
+            padding: 10px 15px;
+            border-radius: 8px;
+            border: 1px solid #36BCF7;
+            font-size: 0.9em;
+            pointer-events: none;
+            z-index: 1000;
+            display: none;
+            box-shadow: 0 5px 20px rgba(54, 188, 247, 0.4);
+        }
+
+        @media (max-width: 768px) {
+            .calendar {
+                grid-template-columns: repeat(26, 1fr);
+                gap: 3px;
+            }
+            
+            .day {
+                width: 12px;
+                height: 12px;
+            }
+
+            h1 {
+                font-size: 1.8em;
+            }
+
+            .stat-value {
+                font-size: 2em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🗓️ Contribution Activity</h1>
+        
+        <div class="calendar-wrapper">
+            <div class="calendar" id="calendar"></div>
+        </div>
+
+        <div class="legend">
+            <span style="color: #C9D1D9; margin-right: 10px;">Less</span>
+            <div class="legend-item">
+                <div class="legend-box" style="background: #161b22;"></div>
+            </div>
+            <div class="legend-item">
+                <div class="legend-box" style="background: #0e4429;"></div>
+            </div>
+            <div class="legend-item">
+                <div class="legend-box" style="background: #006d32;"></div>
+            </div>
+            <div class="legend-item">
+                <div class="legend-box" style="background: #26a641;"></div>
+            </div>
+            <div class="legend-item">
+                <div class="legend-box" style="background: #39d353;"></div>
+            </div>
+            <span style="color: #C9D1D9; margin-left: 10px;">More</span>
+        </div>
+
+        <div class="stats">
+            <div class="stat-card">
+                <div class="stat-value" id="totalContributions">0</div>
+                <div class="stat-label">Total Contributions</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-value" id="longestStreak">0</div>
+                <div class="stat-label">Longest Streak</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-value" id="currentStreak">0</div>
+                <div class="stat-label">Current Streak</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="tooltip" id="tooltip"></div>
+
+    <script>
+        // Generate calendar data for the past year
+        function generateCalendarData() {
+            const data = [];
+            const today = new Date();
+            const oneYearAgo = new Date(today);
+            oneYearAgo.setFullYear(today.getFullYear() - 1);
+
+            for (let d = new Date(oneYearAgo); d <= today; d.setDate(d.getDate() + 1)) {
+                const contributions = Math.floor(Math.random() * 20); // Random contributions 0-19
+                data.push({
+                    date: new Date(d),
+                    count: contributions,
+                    level: contributions === 0 ? 0 : Math.min(4, Math.ceil(contributions / 5))
+                });
+            }
+            return data;
+        }
+
+        function renderCalendar(data) {
+            const calendar = document.getElementById('calendar');
+            calendar.innerHTML = '';
+
+            data.forEach((day, index) => {
+                const dayElement = document.createElement('div');
+                dayElement.className = `day level-${day.level}`;
+                dayElement.style.setProperty('--color', getColorForLevel(day.level));
+                
+                dayElement.addEventListener('mouseenter', (e) => showTooltip(e, day));
+                dayElement.addEventListener('mouseleave', hideTooltip);
+                
+                // Add animation delay
+                dayElement.style.animation = `fadeIn 0.5s ease-in ${index * 0.001}s both`;
+                
+                calendar.appendChild(dayElement);
+            });
+        }
+
+        function getColorForLevel(level) {
+            const colors = ['#161b22', '#0e4429', '#006d32', '#26a641', '#39d353'];
+            return colors[level];
+        }
+
+        function showTooltip(e, day) {
+            const tooltip = document.getElementById('tooltip');
+            const dateStr = day.date.toLocaleDateString('en-US', { 
+                month: 'short', 
+                day: 'numeric', 
+                year: 'numeric' 
+            });
+            tooltip.textContent = `${dateStr}: ${day.count} contributions`;
+            tooltip.style.display = 'block';
+            tooltip.style.left = e.pageX + 10 + 'px';
+            tooltip.style.top = e.pageY + 10 + 'px';
+        }
+
+        function hideTooltip() {
+            const tooltip = document.getElementById('tooltip');
+            tooltip.style.display = 'none';
+        }
+
+        function calculateStats(data) {
+            const total = data.reduce((sum, day) => sum + day.count, 0);
+            
+            let longestStreak = 0;
+            let currentStreak = 0;
+            let tempStreak = 0;
+
+            for (let i = 0; i < data.length; i++) {
+                if (data[i].count > 0) {
+                    tempStreak++;
+                    longestStreak = Math.max(longestStreak, tempStreak);
+                } else {
+                    tempStreak = 0;
+                }
+            }
+
+            // Calculate current streak from the end
+            for (let i = data.length - 1; i >= 0; i--) {
+                if (data[i].count > 0) {
+                    currentStreak++;
+                } else {
+                    break;
+                }
+            }
+
+            document.getElementById('totalContributions').textContent = total;
+            document.getElementById('longestStreak').textContent = longestStreak + ' days';
+            document.getElementById('currentStreak').textContent = currentStreak + ' days';
+        }
+
+        // Initialize
+        const calendarData = generateCalendarData();
+        renderCalendar(calendarData);
+        calculateStats(calendarData);
+
+        // Add mouse move effect for 3D tilt
+        document.addEventListener('mousemove', (e) => {
+            const calendar = document.querySelector('.calendar');
+            const rect = calendar.getBoundingClientRect();
+            const x = e.clientX - rect.left - rect.width / 2;
+            const y = e.clientY - rect.top - rect.height / 2;
+            
+            const rotateX = 45 + (y / rect.height) * 10;
+            const rotateZ = 45 + (x / rect.width) * 10;
+            
+            calendar.style.transform = `rotateX(${rotateX}deg) rotateZ(${rotateZ}deg)`;
+        });
+    </script>
+</body>
+</html>

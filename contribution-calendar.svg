@@ -1,0 +1,2579 @@
+<svg width="900" height="400" xmlns="http://www.w3.org/2000/svg">
+<rect width="900" height="400" fill="#0d1117"/>
+
+    <defs>
+        <filter id="glow">
+            <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+            <feMerge>
+                <feMergeNode in="coloredBlur"/>
+                <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+        </filter>
+    </defs>
+    
+
+            <g class="day" opacity="0.9">
+                <polygon points="180.0,120.0 186.928,124.0 180.0,128.0 173.072,124.0" fill="#26a641" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-01-14: 14 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="171.34,125.0 178.268,129.0 171.34,133.0 164.412,129.0" fill="#006d32" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-01-15: 10 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="162.68,130.0 169.608,134.0 162.68,138.0 155.752,134.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-01-16: 2 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="154.02,135.0 160.948,139.0 154.02,143.0 147.092,139.0" fill="#006d32" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-01-17: 10 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="145.36,140.0 152.288,144.0 145.36,148.0 138.43200000000002,144.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-01-18: 2 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="136.7,145.0 143.628,149.0 136.7,153.0 129.772,149.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-01-19: 5 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="128.04,150.0 134.968,154.0 128.04,158.0 121.112,154.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-01-20: 3 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="188.66,125.0 195.588,129.0 188.66,133.0 181.732,129.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-01-21: 7 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="180.0,130.0 186.928,134.0 180.0,138.0 173.072,134.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-01-22: 5 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="171.34,135.0 178.268,139.0 171.34,143.0 164.412,139.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-01-23: 5 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="162.68,140.0 169.608,144.0 162.68,148.0 155.752,144.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-01-24: 6 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="154.01999999999998,145.0 160.94799999999998,149.0 154.01999999999998,153.0 147.09199999999998,149.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-01-25: 4 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="145.36,150.0 152.288,154.0 145.36,158.0 138.43200000000002,154.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-01-26: 0 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="136.7,155.0 143.628,159.0 136.7,163.0 129.772,159.0" fill="#26a641" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-01-27: 13 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="197.32,130.0 204.248,134.0 197.32,138.0 190.392,134.0" fill="#26a641" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-01-28: 15 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="188.66,135.0 195.588,139.0 188.66,143.0 181.732,139.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-01-29: 7 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="180.0,140.0 186.928,144.0 180.0,148.0 173.072,144.0" fill="#006d32" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-01-30: 11 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="171.34,145.0 178.268,149.0 171.34,153.0 164.412,149.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-01-31: 6 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="162.68,150.0 169.608,154.0 162.68,158.0 155.752,154.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-02-01: 2 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="154.01999999999998,155.0 160.94799999999998,159.0 154.01999999999998,163.0 147.09199999999998,159.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-02-02: 2 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="145.35999999999999,160.0 152.28799999999998,164.0 145.35999999999999,168.0 138.432,164.0" fill="#26a641" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-02-03: 13 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="205.98,135.0 212.908,139.0 205.98,143.0 199.052,139.0" fill="#26a641" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-02-04: 14 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="197.32,140.0 204.248,144.0 197.32,148.0 190.392,144.0" fill="#006d32" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-02-05: 9 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="188.66,145.0 195.588,149.0 188.66,153.0 181.732,149.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-02-06: 5 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="180.0,150.0 186.928,154.0 180.0,158.0 173.072,154.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-02-07: 4 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="171.33999999999997,155.0 178.26799999999997,159.0 171.33999999999997,163.0 164.41199999999998,159.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-02-08: 5 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="162.68,160.0 169.608,164.0 162.68,168.0 155.752,164.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-02-09: 1 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="154.01999999999998,165.0 160.94799999999998,169.0 154.01999999999998,173.0 147.09199999999998,169.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-02-10: 3 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="214.64,140.0 221.56799999999998,144.0 214.64,148.0 207.712,144.0" fill="#26a641" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-02-11: 13 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="205.98,145.0 212.908,149.0 205.98,153.0 199.052,149.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-02-12: 4 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="197.32,150.0 204.248,154.0 197.32,158.0 190.392,154.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-02-13: 5 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="188.66,155.0 195.588,159.0 188.66,163.0 181.732,159.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-02-14: 5 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="180.0,160.0 186.928,164.0 180.0,168.0 173.072,164.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-02-15: 0 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="171.33999999999997,165.0 178.26799999999997,169.0 171.33999999999997,173.0 164.41199999999998,169.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-02-16: 1 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="162.67999999999998,170.0 169.60799999999998,174.0 162.67999999999998,178.0 155.75199999999998,174.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-02-17: 4 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="223.3,145.0 230.228,149.0 223.3,153.0 216.372,149.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-02-18: 4 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="214.64000000000001,150.0 221.568,154.0 214.64000000000001,158.0 207.71200000000002,154.0" fill="#26a641" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-02-19: 15 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="205.98000000000002,155.0 212.90800000000002,159.0 205.98000000000002,163.0 199.05200000000002,159.0" fill="#006d32" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-02-20: 8 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="197.32000000000002,160.0 204.24800000000002,164.0 197.32000000000002,168.0 190.39200000000002,164.0" fill="#26a641" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-02-21: 15 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="188.66000000000003,165.0 195.58800000000002,169.0 188.66000000000003,173.0 181.73200000000003,169.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-02-22: 5 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="180.0,170.0 186.928,174.0 180.0,178.0 173.072,174.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-02-23: 0 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="171.34,175.0 178.268,179.0 171.34,183.0 164.412,179.0" fill="#006d32" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-02-24: 11 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="231.96,150.0 238.888,154.0 231.96,158.0 225.032,154.0" fill="#26a641" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-02-25: 13 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="223.3,155.0 230.228,159.0 223.3,163.0 216.372,159.0" fill="#26a641" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-02-26: 15 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="214.64000000000001,160.0 221.568,164.0 214.64000000000001,168.0 207.71200000000002,164.0" fill="#26a641" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-02-27: 14 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="205.98000000000002,165.0 212.90800000000002,169.0 205.98000000000002,173.0 199.05200000000002,169.0" fill="#006d32" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-02-28: 9 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="197.32,170.0 204.248,174.0 197.32,178.0 190.392,174.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-03-01: 4 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="188.66000000000003,175.0 195.58800000000002,179.0 188.66000000000003,183.0 181.73200000000003,179.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-03-02: 2 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="180.0,180.0 186.928,184.0 180.0,188.0 173.072,184.0" fill="#26a641" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-03-03: 13 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="240.62,155.0 247.548,159.0 240.62,163.0 233.692,159.0" fill="#006d32" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-03-04: 11 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="231.96,160.0 238.888,164.0 231.96,168.0 225.032,164.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-03-05: 3 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="223.3,165.0 230.228,169.0 223.3,173.0 216.372,169.0" fill="#006d32" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-03-06: 11 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="214.64000000000001,170.0 221.568,174.0 214.64000000000001,178.0 207.71200000000002,174.0" fill="#26a641" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-03-07: 14 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="205.98000000000002,175.0 212.90800000000002,179.0 205.98000000000002,183.0 199.05200000000002,179.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-03-08: 1 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="197.32,180.0 204.248,184.0 197.32,188.0 190.392,184.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-03-09: 3 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="188.66,185.0 195.588,189.0 188.66,193.0 181.732,189.0" fill="#26a641" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-03-10: 15 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="249.28,160.0 256.208,164.0 249.28,168.0 242.352,164.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-03-11: 6 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="240.62,165.0 247.548,169.0 240.62,173.0 233.692,169.0" fill="#26a641" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-03-12: 12 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="231.96,170.0 238.888,174.0 231.96,178.0 225.032,174.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-03-13: 5 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="223.3,175.0 230.228,179.0 223.3,183.0 216.372,179.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-03-14: 3 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="214.64,180.0 221.56799999999998,184.0 214.64,188.0 207.712,184.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-03-15: 2 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="205.98000000000002,185.0 212.90800000000002,189.0 205.98000000000002,193.0 199.05200000000002,189.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-03-16: 3 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="197.32,190.0 204.248,194.0 197.32,198.0 190.392,194.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-03-17: 2 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="257.94,165.0 264.868,169.0 257.94,173.0 251.012,169.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-03-18: 3 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="249.28,170.0 256.208,174.0 249.28,178.0 242.352,174.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-03-19: 2 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="240.62,175.0 247.548,179.0 240.62,183.0 233.692,179.0" fill="#26a641" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-03-20: 15 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="231.96,180.0 238.888,184.0 231.96,188.0 225.032,184.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-03-21: 3 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="223.3,185.0 230.228,189.0 223.3,193.0 216.372,189.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-03-22: 1 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="214.64,190.0 221.56799999999998,194.0 214.64,198.0 207.712,194.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-03-23: 3 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="205.98,195.0 212.908,199.0 205.98,203.0 199.052,199.0" fill="#26a641" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-03-24: 13 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="266.6,170.0 273.528,174.0 266.6,178.0 259.672,174.0" fill="#006d32" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-03-25: 10 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="257.94,175.0 264.868,179.0 257.94,183.0 251.012,179.0" fill="#26a641" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-03-26: 15 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="249.28000000000003,180.0 256.208,184.0 249.28000000000003,188.0 242.35200000000003,184.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-03-27: 7 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="240.62000000000003,185.0 247.54800000000003,189.0 240.62000000000003,193.0 233.69200000000004,189.0" fill="#006d32" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-03-28: 11 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="231.96000000000004,190.0 238.88800000000003,194.0 231.96000000000004,198.0 225.03200000000004,194.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-03-29: 3 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="223.3,195.0 230.228,199.0 223.3,203.0 216.372,199.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-03-30: 4 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="214.64000000000001,200.0 221.568,204.0 214.64000000000001,208.0 207.71200000000002,204.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-03-31: 5 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="275.26,175.0 282.188,179.0 275.26,183.0 268.332,179.0" fill="#26a641" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-04-01: 12 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="266.59999999999997,180.0 273.52799999999996,184.0 266.59999999999997,188.0 259.67199999999997,184.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-04-02: 2 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="257.94,185.0 264.868,189.0 257.94,193.0 251.012,189.0" fill="#26a641" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-04-03: 13 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="249.28,190.0 256.208,194.0 249.28,198.0 242.352,194.0" fill="#26a641" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-04-04: 15 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="240.62,195.0 247.548,199.0 240.62,203.0 233.692,199.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-04-05: 1 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="231.95999999999998,200.0 238.88799999999998,204.0 231.95999999999998,208.0 225.03199999999998,204.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-04-06: 0 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="223.29999999999998,205.0 230.22799999999998,209.0 223.29999999999998,213.0 216.37199999999999,209.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-04-07: 4 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="283.92,180.0 290.848,184.0 283.92,188.0 276.992,184.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-04-08: 6 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="275.26,185.0 282.188,189.0 275.26,193.0 268.332,189.0" fill="#26a641" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-04-09: 12 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="266.6,190.0 273.528,194.0 266.6,198.0 259.672,194.0" fill="#26a641" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-04-10: 14 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="257.94,195.0 264.868,199.0 257.94,203.0 251.012,199.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-04-11: 5 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="249.28000000000003,200.0 256.208,204.0 249.28000000000003,208.0 242.35200000000003,204.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-04-12: 1 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="240.62,205.0 247.548,209.0 240.62,213.0 233.692,209.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-04-13: 3 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="231.96,210.0 238.888,214.0 231.96,218.0 225.032,214.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-04-14: 5 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="292.58,185.0 299.508,189.0 292.58,193.0 285.652,189.0" fill="#26a641" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-04-15: 13 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="283.91999999999996,190.0 290.84799999999996,194.0 283.91999999999996,198.0 276.99199999999996,194.0" fill="#006d32" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-04-16: 11 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="275.26,195.0 282.188,199.0 275.26,203.0 268.332,199.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-04-17: 4 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="266.59999999999997,200.0 273.52799999999996,204.0 266.59999999999997,208.0 259.67199999999997,204.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-04-18: 5 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="257.94,205.0 264.868,209.0 257.94,213.0 251.012,209.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-04-19: 1 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="249.27999999999997,210.0 256.20799999999997,214.0 249.27999999999997,218.0 242.35199999999998,214.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-04-20: 0 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="240.61999999999998,215.0 247.54799999999997,219.0 240.61999999999998,223.0 233.69199999999998,219.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-04-21: 6 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="301.24,190.0 308.168,194.0 301.24,198.0 294.312,194.0" fill="#006d32" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-04-22: 11 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="292.58,195.0 299.508,199.0 292.58,203.0 285.652,199.0" fill="#006d32" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-04-23: 11 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="283.92,200.0 290.848,204.0 283.92,208.0 276.992,204.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-04-24: 2 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="275.26,205.0 282.188,209.0 275.26,213.0 268.332,209.0" fill="#006d32" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-04-25: 8 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="266.6,210.0 273.528,214.0 266.6,218.0 259.672,214.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-04-26: 4 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="257.94,215.0 264.868,219.0 257.94,223.0 251.012,219.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-04-27: 0 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="249.28,220.0 256.208,224.0 249.28,228.0 242.352,224.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-04-28: 2 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="309.9,195.0 316.828,199.0 309.9,203.0 302.972,199.0" fill="#26a641" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-04-29: 15 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="301.23999999999995,200.0 308.16799999999995,204.0 301.23999999999995,208.0 294.31199999999995,204.0" fill="#006d32" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-04-30: 11 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="292.58,205.0 299.508,209.0 292.58,213.0 285.652,209.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-05-01: 2 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="283.91999999999996,210.0 290.84799999999996,214.0 283.91999999999996,218.0 276.99199999999996,214.0" fill="#006d32" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-05-02: 11 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="275.26,215.0 282.188,219.0 275.26,223.0 268.332,219.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-05-03: 3 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="266.59999999999997,220.0 273.52799999999996,224.0 266.59999999999997,228.0 259.67199999999997,224.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-05-04: 2 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="257.94,225.0 264.868,229.0 257.94,233.0 251.012,229.0" fill="#006d32" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-05-05: 10 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="318.56,200.0 325.488,204.0 318.56,208.0 311.632,204.0" fill="#006d32" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-05-06: 9 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="309.9,205.0 316.828,209.0 309.9,213.0 302.972,209.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-05-07: 5 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="301.24,210.0 308.168,214.0 301.24,218.0 294.312,214.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-05-08: 3 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="292.58,215.0 299.508,219.0 292.58,223.0 285.652,219.0" fill="#006d32" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-05-09: 9 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="283.92,220.0 290.848,224.0 283.92,228.0 276.992,224.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-05-10: 0 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="275.26,225.0 282.188,229.0 275.26,233.0 268.332,229.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-05-11: 3 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="266.6,230.0 273.528,234.0 266.6,238.0 259.672,234.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-05-12: 3 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="327.22,205.0 334.148,209.0 327.22,213.0 320.29200000000003,209.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-05-13: 2 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="318.56,210.0 325.488,214.0 318.56,218.0 311.632,214.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-05-14: 6 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="309.90000000000003,215.0 316.82800000000003,219.0 309.90000000000003,223.0 302.97200000000004,219.0" fill="#006d32" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-05-15: 8 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="301.24,220.0 308.168,224.0 301.24,228.0 294.312,224.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-05-16: 6 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="292.58000000000004,225.0 299.50800000000004,229.0 292.58000000000004,233.0 285.65200000000004,229.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-05-17: 0 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="283.92,230.0 290.848,234.0 283.92,238.0 276.992,234.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-05-18: 3 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="275.26000000000005,235.0 282.18800000000005,239.0 275.26000000000005,243.0 268.33200000000005,239.0" fill="#26a641" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-05-19: 14 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="335.88,210.0 342.808,214.0 335.88,218.0 328.952,214.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-05-20: 4 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="327.21999999999997,215.0 334.14799999999997,219.0 327.21999999999997,223.0 320.292,219.0" fill="#006d32" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-05-21: 10 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="318.56,220.0 325.488,224.0 318.56,228.0 311.632,224.0" fill="#26a641" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-05-22: 13 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="309.9,225.0 316.828,229.0 309.9,233.0 302.972,229.0" fill="#006d32" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-05-23: 10 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="301.24,230.0 308.168,234.0 301.24,238.0 294.312,234.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-05-24: 4 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="292.58,235.0 299.508,239.0 292.58,243.0 285.652,239.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-05-25: 2 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="283.92,240.0 290.848,244.0 283.92,248.0 276.992,244.0" fill="#006d32" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-05-26: 8 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="344.53999999999996,215.0 351.46799999999996,219.0 344.53999999999996,223.0 337.61199999999997,219.0" fill="#006d32" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-05-27: 11 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="335.87999999999994,220.0 342.80799999999994,224.0 335.87999999999994,228.0 328.95199999999994,224.0" fill="#26a641" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-05-28: 15 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="327.21999999999997,225.0 334.14799999999997,229.0 327.21999999999997,233.0 320.292,229.0" fill="#006d32" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-05-29: 9 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="318.55999999999995,230.0 325.48799999999994,234.0 318.55999999999995,238.0 311.63199999999995,234.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-05-30: 5 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="309.9,235.0 316.828,239.0 309.9,243.0 302.972,239.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-05-31: 5 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="301.23999999999995,240.0 308.16799999999995,244.0 301.23999999999995,248.0 294.31199999999995,244.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-06-01: 5 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="292.58,245.0 299.508,249.0 292.58,253.0 285.652,249.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-06-02: 7 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="353.2,220.0 360.128,224.0 353.2,228.0 346.272,224.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-06-03: 2 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="344.53999999999996,225.0 351.46799999999996,229.0 344.53999999999996,233.0 337.61199999999997,229.0" fill="#26a641" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-06-04: 15 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="335.88,230.0 342.808,234.0 335.88,238.0 328.952,234.0" fill="#006d32" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-06-05: 11 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="327.21999999999997,235.0 334.14799999999997,239.0 327.21999999999997,243.0 320.292,239.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-06-06: 5 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="318.56,240.0 325.488,244.0 318.56,248.0 311.632,244.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-06-07: 2 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="309.9,245.0 316.828,249.0 309.9,253.0 302.972,249.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-06-08: 4 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="301.24,250.0 308.168,254.0 301.24,258.0 294.312,254.0" fill="#006d32" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-06-09: 11 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="361.86,225.0 368.788,229.0 361.86,233.0 354.932,229.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-06-10: 4 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="353.2,230.0 360.128,234.0 353.2,238.0 346.272,234.0" fill="#26a641" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-06-11: 15 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="344.54,235.0 351.468,239.0 344.54,243.0 337.612,239.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-06-12: 7 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="335.88,240.0 342.808,244.0 335.88,248.0 328.952,244.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-06-13: 4 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="327.22,245.0 334.148,249.0 327.22,253.0 320.29200000000003,249.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-06-14: 3 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="318.56,250.0 325.488,254.0 318.56,258.0 311.632,254.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-06-15: 4 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="309.90000000000003,255.0 316.82800000000003,259.0 309.90000000000003,263.0 302.97200000000004,259.0" fill="#006d32" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-06-16: 10 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="370.52,230.0 377.448,234.0 370.52,238.0 363.592,234.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-06-17: 2 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="361.85999999999996,235.0 368.78799999999995,239.0 361.85999999999996,243.0 354.93199999999996,239.0" fill="#006d32" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-06-18: 8 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="353.2,240.0 360.128,244.0 353.2,248.0 346.272,244.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-06-19: 2 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="344.53999999999996,245.0 351.46799999999996,249.0 344.53999999999996,253.0 337.61199999999997,249.0" fill="#26a641" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-06-20: 12 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="335.88,250.0 342.808,254.0 335.88,258.0 328.952,254.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-06-21: 4 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="327.21999999999997,255.0 334.14799999999997,259.0 327.21999999999997,263.0 320.292,259.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-06-22: 2 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="318.56,260.0 325.488,264.0 318.56,268.0 311.632,264.0" fill="#006d32" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-06-23: 9 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="379.18,235.0 386.108,239.0 379.18,243.0 372.252,239.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-06-24: 4 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="370.52,240.0 377.448,244.0 370.52,248.0 363.592,244.0" fill="#26a641" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-06-25: 15 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="361.86,245.0 368.788,249.0 361.86,253.0 354.932,249.0" fill="#26a641" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-06-26: 14 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="353.2,250.0 360.128,254.0 353.2,258.0 346.272,254.0" fill="#26a641" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-06-27: 15 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="344.54,255.0 351.468,259.0 344.54,263.0 337.612,259.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-06-28: 5 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="335.88,260.0 342.808,264.0 335.88,268.0 328.952,264.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-06-29: 1 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="327.22,265.0 334.148,269.0 327.22,273.0 320.29200000000003,269.0" fill="#26a641" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-06-30: 13 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="387.84000000000003,240.0 394.76800000000003,244.0 387.84000000000003,248.0 380.91200000000003,244.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-07-01: 2 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="379.18,245.0 386.108,249.0 379.18,253.0 372.252,249.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-07-02: 5 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="370.52000000000004,250.0 377.44800000000004,254.0 370.52000000000004,258.0 363.59200000000004,254.0" fill="#26a641" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-07-03: 12 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="361.86,255.0 368.788,259.0 361.86,263.0 354.932,259.0" fill="#26a641" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-07-04: 12 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="353.20000000000005,260.0 360.12800000000004,264.0 353.20000000000005,268.0 346.27200000000005,264.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-07-05: 5 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="344.54,265.0 351.468,269.0 344.54,273.0 337.612,269.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-07-06: 0 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="335.88000000000005,270.0 342.80800000000005,274.0 335.88000000000005,278.0 328.95200000000006,274.0" fill="#006d32" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-07-07: 8 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="396.5,245.0 403.428,249.0 396.5,253.0 389.572,249.0" fill="#006d32" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-07-08: 10 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="387.84,250.0 394.768,254.0 387.84,258.0 380.912,254.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-07-09: 4 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="379.18,255.0 386.108,259.0 379.18,263.0 372.252,259.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-07-10: 7 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="370.52,260.0 377.448,264.0 370.52,268.0 363.592,264.0" fill="#26a641" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-07-11: 15 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="361.86,265.0 368.788,269.0 361.86,273.0 354.932,269.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-07-12: 4 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="353.2,270.0 360.128,274.0 353.2,278.0 346.272,274.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-07-13: 1 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="344.54,275.0 351.468,279.0 344.54,283.0 337.612,279.0" fill="#006d32" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-07-14: 11 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="405.15999999999997,250.0 412.08799999999997,254.0 405.15999999999997,258.0 398.23199999999997,254.0" fill="#26a641" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-07-15: 15 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="396.49999999999994,255.0 403.42799999999994,259.0 396.49999999999994,263.0 389.57199999999995,259.0" fill="#26a641" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-07-16: 12 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="387.84,260.0 394.768,264.0 387.84,268.0 380.912,264.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-07-17: 4 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="379.17999999999995,265.0 386.10799999999995,269.0 379.17999999999995,273.0 372.25199999999995,269.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-07-18: 7 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="370.52,270.0 377.448,274.0 370.52,278.0 363.592,274.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-07-19: 3 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="361.85999999999996,275.0 368.78799999999995,279.0 361.85999999999996,283.0 354.93199999999996,279.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-07-20: 5 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="353.2,280.0 360.128,284.0 353.2,288.0 346.272,284.0" fill="#26a641" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-07-21: 12 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="413.82,255.0 420.748,259.0 413.82,263.0 406.892,259.0" fill="#26a641" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-07-22: 12 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="405.15999999999997,260.0 412.08799999999997,264.0 405.15999999999997,268.0 398.23199999999997,264.0" fill="#006d32" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-07-23: 8 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="396.5,265.0 403.428,269.0 396.5,273.0 389.572,269.0" fill="#26a641" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-07-24: 12 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="387.84,270.0 394.768,274.0 387.84,278.0 380.912,274.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-07-25: 5 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="379.18,275.0 386.108,279.0 379.18,283.0 372.252,279.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-07-26: 3 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="370.52,280.0 377.448,284.0 370.52,288.0 363.592,284.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-07-27: 1 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="361.86,285.0 368.788,289.0 361.86,293.0 354.932,289.0" fill="#26a641" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-07-28: 15 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="422.48,260.0 429.408,264.0 422.48,268.0 415.552,264.0" fill="#26a641" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-07-29: 14 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="413.82,265.0 420.748,269.0 413.82,273.0 406.892,269.0" fill="#26a641" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-07-30: 12 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="405.16,270.0 412.088,274.0 405.16,278.0 398.232,274.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-07-31: 5 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="396.5,275.0 403.428,279.0 396.5,283.0 389.572,279.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-08-01: 2 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="387.84000000000003,280.0 394.76800000000003,284.0 387.84000000000003,288.0 380.91200000000003,284.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-08-02: 1 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="379.18,285.0 386.108,289.0 379.18,293.0 372.252,289.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-08-03: 3 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="370.52000000000004,290.0 377.44800000000004,294.0 370.52000000000004,298.0 363.59200000000004,294.0" fill="#006d32" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-08-04: 9 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="431.14,265.0 438.068,269.0 431.14,273.0 424.212,269.0" fill="#26a641" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-08-05: 12 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="422.47999999999996,270.0 429.40799999999996,274.0 422.47999999999996,278.0 415.55199999999996,274.0" fill="#006d32" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-08-06: 11 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="413.82,275.0 420.748,279.0 413.82,283.0 406.892,279.0" fill="#006d32" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-08-07: 8 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="405.15999999999997,280.0 412.08799999999997,284.0 405.15999999999997,288.0 398.23199999999997,284.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-08-08: 4 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="396.5,285.0 403.428,289.0 396.5,293.0 389.572,289.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-08-09: 2 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="387.84,290.0 394.768,294.0 387.84,298.0 380.912,294.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-08-10: 0 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="379.18,295.0 386.108,299.0 379.18,303.0 372.252,299.0" fill="#26a641" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-08-11: 13 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="439.8,270.0 446.728,274.0 439.8,278.0 432.872,274.0" fill="#26a641" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-08-12: 13 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="431.14,275.0 438.068,279.0 431.14,283.0 424.212,279.0" fill="#006d32" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-08-13: 11 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="422.48,280.0 429.408,284.0 422.48,288.0 415.552,284.0" fill="#26a641" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-08-14: 12 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="413.82,285.0 420.748,289.0 413.82,293.0 406.892,289.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-08-15: 6 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="405.16,290.0 412.088,294.0 405.16,298.0 398.232,294.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-08-16: 2 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="396.5,295.0 403.428,299.0 396.5,303.0 389.572,299.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-08-17: 1 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="387.84000000000003,300.0 394.76800000000003,304.0 387.84000000000003,308.0 380.91200000000003,304.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-08-18: 7 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="448.46,275.0 455.388,279.0 448.46,283.0 441.532,279.0" fill="#006d32" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-08-19: 11 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="439.79999999999995,280.0 446.72799999999995,284.0 439.79999999999995,288.0 432.87199999999996,284.0" fill="#006d32" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-08-20: 10 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="431.14,285.0 438.068,289.0 431.14,293.0 424.212,289.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-08-21: 5 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="422.47999999999996,290.0 429.40799999999996,294.0 422.47999999999996,298.0 415.55199999999996,294.0" fill="#006d32" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-08-22: 9 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="413.82,295.0 420.748,299.0 413.82,303.0 406.892,299.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-08-23: 2 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="405.15999999999997,300.0 412.08799999999997,304.0 405.15999999999997,308.0 398.23199999999997,304.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-08-24: 2 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="396.5,305.0 403.428,309.0 396.5,313.0 389.572,309.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-08-25: 5 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="457.12,280.0 464.048,284.0 457.12,288.0 450.192,284.0" fill="#26a641" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-08-26: 13 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="448.46,285.0 455.388,289.0 448.46,293.0 441.532,289.0" fill="#26a641" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-08-27: 15 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="439.8,290.0 446.728,294.0 439.8,298.0 432.872,294.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-08-28: 3 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="431.14,295.0 438.068,299.0 431.14,303.0 424.212,299.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-08-29: 2 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="422.48,300.0 429.408,304.0 422.48,308.0 415.552,304.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-08-30: 5 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="413.82,305.0 420.748,309.0 413.82,313.0 406.892,309.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-08-31: 5 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="405.16,310.0 412.088,314.0 405.16,318.0 398.232,314.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-09-01: 7 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="465.78,285.0 472.70799999999997,289.0 465.78,293.0 458.852,289.0" fill="#26a641" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-09-02: 12 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="457.11999999999995,290.0 464.04799999999994,294.0 457.11999999999995,298.0 450.19199999999995,294.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-09-03: 2 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="448.46,295.0 455.388,299.0 448.46,303.0 441.532,299.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-09-04: 6 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="439.79999999999995,300.0 446.72799999999995,304.0 439.79999999999995,308.0 432.87199999999996,304.0" fill="#006d32" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-09-05: 9 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="431.14,305.0 438.068,309.0 431.14,313.0 424.212,309.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-09-06: 1 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="422.47999999999996,310.0 429.40799999999996,314.0 422.47999999999996,318.0 415.55199999999996,314.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-09-07: 5 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="413.82,315.0 420.748,319.0 413.82,323.0 406.892,319.0" fill="#006d32" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-09-08: 8 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="474.44,290.0 481.368,294.0 474.44,298.0 467.512,294.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-09-09: 5 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="465.78,295.0 472.70799999999997,299.0 465.78,303.0 458.852,299.0" fill="#006d32" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-09-10: 10 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="457.12,300.0 464.048,304.0 457.12,308.0 450.192,304.0" fill="#006d32" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-09-11: 10 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="448.46,305.0 455.388,309.0 448.46,313.0 441.532,309.0" fill="#006d32" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-09-12: 9 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="439.8,310.0 446.728,314.0 439.8,318.0 432.872,314.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-09-13: 0 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="431.14,315.0 438.068,319.0 431.14,323.0 424.212,319.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-09-14: 1 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="422.48,320.0 429.408,324.0 422.48,328.0 415.552,324.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-09-15: 6 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="483.1,295.0 490.028,299.0 483.1,303.0 476.172,299.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-09-16: 5 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="474.44,300.0 481.368,304.0 474.44,308.0 467.512,304.0" fill="#26a641" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-09-17: 15 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="465.78000000000003,305.0 472.708,309.0 465.78000000000003,313.0 458.85200000000003,309.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-09-18: 2 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="457.12,310.0 464.048,314.0 457.12,318.0 450.192,314.0" fill="#006d32" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-09-19: 9 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="448.46000000000004,315.0 455.38800000000003,319.0 448.46000000000004,323.0 441.53200000000004,319.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-09-20: 5 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="439.8,320.0 446.728,324.0 439.8,328.0 432.872,324.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-09-21: 1 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="431.14000000000004,325.0 438.06800000000004,329.0 431.14000000000004,333.0 424.21200000000005,329.0" fill="#006d32" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-09-22: 10 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="491.76,300.0 498.688,304.0 491.76,308.0 484.832,304.0" fill="#26a641" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-09-23: 12 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="483.09999999999997,305.0 490.02799999999996,309.0 483.09999999999997,313.0 476.17199999999997,309.0" fill="#006d32" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-09-24: 10 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="474.44,310.0 481.368,314.0 474.44,318.0 467.512,314.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-09-25: 2 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="465.78,315.0 472.70799999999997,319.0 465.78,323.0 458.852,319.0" fill="#26a641" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-09-26: 13 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="457.12,320.0 464.048,324.0 457.12,328.0 450.192,324.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-09-27: 4 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="448.46,325.0 455.388,329.0 448.46,333.0 441.532,329.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-09-28: 2 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="439.8,330.0 446.728,334.0 439.8,338.0 432.872,334.0" fill="#26a641" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-09-29: 15 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="500.42,305.0 507.348,309.0 500.42,313.0 493.492,309.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-09-30: 6 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="491.76,310.0 498.688,314.0 491.76,318.0 484.832,314.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-10-01: 4 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="483.1,315.0 490.028,319.0 483.1,323.0 476.172,319.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-10-02: 6 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="474.44,320.0 481.368,324.0 474.44,328.0 467.512,324.0" fill="#006d32" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-10-03: 9 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="465.78000000000003,325.0 472.708,329.0 465.78000000000003,333.0 458.85200000000003,329.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-10-04: 3 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="457.12,330.0 464.048,334.0 457.12,338.0 450.192,334.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-10-05: 2 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="448.46000000000004,335.0 455.38800000000003,339.0 448.46000000000004,343.0 441.53200000000004,339.0" fill="#006d32" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-10-06: 11 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="509.08,310.0 516.008,314.0 509.08,318.0 502.152,314.0" fill="#006d32" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-10-07: 10 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="500.41999999999996,315.0 507.34799999999996,319.0 500.41999999999996,323.0 493.49199999999996,319.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-10-08: 7 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="491.76,320.0 498.688,324.0 491.76,328.0 484.832,324.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-10-09: 6 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="483.09999999999997,325.0 490.02799999999996,329.0 483.09999999999997,333.0 476.17199999999997,329.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-10-10: 3 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="474.44,330.0 481.368,334.0 474.44,338.0 467.512,334.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-10-11: 1 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="465.78,335.0 472.70799999999997,339.0 465.78,343.0 458.852,339.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-10-12: 3 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="457.12,340.0 464.048,344.0 457.12,348.0 450.192,344.0" fill="#006d32" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-10-13: 9 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="517.74,315.0 524.668,319.0 517.74,323.0 510.812,319.0" fill="#006d32" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-10-14: 9 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="509.08,320.0 516.008,324.0 509.08,328.0 502.152,324.0" fill="#006d32" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-10-15: 11 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="500.42,325.0 507.348,329.0 500.42,333.0 493.492,329.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-10-16: 6 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="491.76,330.0 498.688,334.0 491.76,338.0 484.832,334.0" fill="#006d32" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-10-17: 9 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="483.1,335.0 490.028,339.0 483.1,343.0 476.172,339.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-10-18: 5 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="474.44,340.0 481.368,344.0 474.44,348.0 467.512,344.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-10-19: 5 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="465.78000000000003,345.0 472.708,349.0 465.78000000000003,353.0 458.85200000000003,349.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-10-20: 6 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="526.4,320.0 533.328,324.0 526.4,328.0 519.472,324.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-10-21: 2 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="517.74,325.0 524.668,329.0 517.74,333.0 510.812,329.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-10-22: 4 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="509.08,330.0 516.008,334.0 509.08,338.0 502.152,334.0" fill="#26a641" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-10-23: 13 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="500.41999999999996,335.0 507.34799999999996,339.0 500.41999999999996,343.0 493.49199999999996,339.0" fill="#26a641" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-10-24: 15 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="491.76,340.0 498.688,344.0 491.76,348.0 484.832,344.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-10-25: 1 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="483.09999999999997,345.0 490.02799999999996,349.0 483.09999999999997,353.0 476.17199999999997,349.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-10-26: 2 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="474.44,350.0 481.368,354.0 474.44,358.0 467.512,354.0" fill="#26a641" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-10-27: 14 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="535.06,325.0 541.9879999999999,329.0 535.06,333.0 528.132,329.0" fill="#006d32" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-10-28: 8 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="526.4,330.0 533.328,334.0 526.4,338.0 519.472,334.0" fill="#26a641" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-10-29: 15 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="517.7399999999999,335.0 524.6679999999999,339.0 517.7399999999999,343.0 510.8119999999999,339.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-10-30: 2 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="509.0799999999999,340.0 516.0079999999999,344.0 509.0799999999999,348.0 502.15199999999993,344.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-10-31: 5 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="500.41999999999996,345.0 507.34799999999996,349.0 500.41999999999996,353.0 493.49199999999996,349.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-11-01: 2 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="491.75999999999993,350.0 498.68799999999993,354.0 491.75999999999993,358.0 484.83199999999994,354.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-11-02: 0 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="483.09999999999997,355.0 490.02799999999996,359.0 483.09999999999997,363.0 476.17199999999997,359.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-11-03: 2 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="543.72,330.0 550.648,334.0 543.72,338.0 536.792,334.0" fill="#006d32" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-11-04: 11 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="535.0600000000001,335.0 541.988,339.0 535.0600000000001,343.0 528.1320000000001,339.0" fill="#006d32" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-11-05: 11 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="526.4,340.0 533.328,344.0 526.4,348.0 519.472,344.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-11-06: 4 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="517.74,345.0 524.668,349.0 517.74,353.0 510.812,349.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-11-07: 3 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="509.08000000000004,350.0 516.008,354.0 509.08000000000004,358.0 502.15200000000004,354.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-11-08: 2 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="500.42,355.0 507.348,359.0 500.42,363.0 493.492,359.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-11-09: 1 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="491.76000000000005,360.0 498.68800000000005,364.0 491.76000000000005,368.0 484.83200000000005,364.0" fill="#26a641" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-11-10: 13 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="552.38,335.0 559.308,339.0 552.38,343.0 545.452,339.0" fill="#26a641" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-11-11: 12 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="543.72,340.0 550.648,344.0 543.72,348.0 536.792,344.0" fill="#006d32" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-11-12: 9 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="535.06,345.0 541.9879999999999,349.0 535.06,353.0 528.132,349.0" fill="#006d32" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-11-13: 11 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="526.4,350.0 533.328,354.0 526.4,358.0 519.472,354.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-11-14: 5 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="517.74,355.0 524.668,359.0 517.74,363.0 510.812,359.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-11-15: 4 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="509.08,360.0 516.008,364.0 509.08,368.0 502.152,364.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-11-16: 1 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="500.42,365.0 507.348,369.0 500.42,373.0 493.492,369.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-11-17: 4 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="561.04,340.0 567.968,344.0 561.04,348.0 554.112,344.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-11-18: 3 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="552.38,345.0 559.308,349.0 552.38,353.0 545.452,349.0" fill="#006d32" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-11-19: 8 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="543.7199999999999,350.0 550.6479999999999,354.0 543.7199999999999,358.0 536.7919999999999,354.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-11-20: 6 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="535.06,355.0 541.9879999999999,359.0 535.06,363.0 528.132,359.0" fill="#26a641" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-11-21: 12 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="526.4,360.0 533.328,364.0 526.4,368.0 519.472,364.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-11-22: 4 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="517.74,365.0 524.668,369.0 517.74,373.0 510.812,369.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-11-23: 5 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="509.08,370.0 516.008,374.0 509.08,378.0 502.152,374.0" fill="#26a641" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-11-24: 15 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="569.7,345.0 576.628,349.0 569.7,353.0 562.772,349.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-11-25: 6 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="561.0400000000001,350.0 567.9680000000001,354.0 561.0400000000001,358.0 554.1120000000001,354.0" fill="#006d32" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-11-26: 9 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="552.38,355.0 559.308,359.0 552.38,363.0 545.452,359.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-11-27: 6 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="543.72,360.0 550.648,364.0 543.72,368.0 536.792,364.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-11-28: 6 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="535.0600000000001,365.0 541.988,369.0 535.0600000000001,373.0 528.1320000000001,369.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-11-29: 0 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="526.4000000000001,370.0 533.3280000000001,374.0 526.4000000000001,378.0 519.4720000000001,374.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-11-30: 0 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="517.74,375.0 524.668,379.0 517.74,383.0 510.812,379.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-12-01: 2 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="578.36,350.0 585.288,354.0 578.36,358.0 571.432,354.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-12-02: 6 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="569.7,355.0 576.628,359.0 569.7,363.0 562.772,359.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-12-03: 4 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="561.04,360.0 567.968,364.0 561.04,368.0 554.112,364.0" fill="#006d32" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-12-04: 11 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="552.38,365.0 559.308,369.0 552.38,373.0 545.452,369.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-12-05: 6 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="543.72,370.0 550.648,374.0 543.72,378.0 536.792,374.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-12-06: 3 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="535.0600000000001,375.0 541.988,379.0 535.0600000000001,383.0 528.1320000000001,379.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-12-07: 0 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="526.4,380.0 533.328,384.0 526.4,388.0 519.472,384.0" fill="#26a641" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-12-08: 14 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="587.02,355.0 593.948,359.0 587.02,363.0 580.092,359.0" fill="#006d32" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-12-09: 8 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="578.36,360.0 585.288,364.0 578.36,368.0 571.432,364.0" fill="#006d32" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-12-10: 8 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="569.6999999999999,365.0 576.6279999999999,369.0 569.6999999999999,373.0 562.7719999999999,369.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-12-11: 4 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="561.04,370.0 567.968,374.0 561.04,378.0 554.112,374.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-12-12: 5 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="552.38,375.0 559.308,379.0 552.38,383.0 545.452,379.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-12-13: 4 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="543.72,380.0 550.648,384.0 543.72,388.0 536.792,384.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-12-14: 1 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="535.06,385.0 541.9879999999999,389.0 535.06,393.0 528.132,389.0" fill="#26a641" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-12-15: 15 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="595.6800000000001,360.0 602.6080000000001,364.0 595.6800000000001,368.0 588.7520000000001,364.0" fill="#26a641" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-12-16: 13 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="587.0200000000001,365.0 593.9480000000001,369.0 587.0200000000001,373.0 580.0920000000001,369.0" fill="#006d32" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-12-17: 10 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="578.36,370.0 585.288,374.0 578.36,378.0 571.432,374.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-12-18: 3 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="569.7,375.0 576.628,379.0 569.7,383.0 562.772,379.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-12-19: 6 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="561.0400000000001,380.0 567.9680000000001,384.0 561.0400000000001,388.0 554.1120000000001,384.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-12-20: 1 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="552.3800000000001,385.0 559.3080000000001,389.0 552.3800000000001,393.0 545.4520000000001,389.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-12-21: 4 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="543.72,390.0 550.648,394.0 543.72,398.0 536.792,394.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-12-22: 7 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="604.3399999999999,365.0 611.2679999999999,369.0 604.3399999999999,373.0 597.4119999999999,369.0" fill="#26a641" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-12-23: 12 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="595.68,370.0 602.608,374.0 595.68,378.0 588.752,374.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-12-24: 2 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="587.0199999999999,375.0 593.9479999999999,379.0 587.0199999999999,383.0 580.0919999999999,379.0" fill="#006d32" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-12-25: 8 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="578.3599999999999,380.0 585.2879999999999,384.0 578.3599999999999,388.0 571.4319999999999,384.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-12-26: 4 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="569.6999999999999,385.0 576.6279999999999,389.0 569.6999999999999,393.0 562.7719999999999,389.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-12-27: 5 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="561.04,390.0 567.968,394.0 561.04,398.0 554.112,394.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-12-28: 1 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="552.3799999999999,395.0 559.3079999999999,399.0 552.3799999999999,403.0 545.4519999999999,399.0" fill="#26a641" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-12-29: 12 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="613.0,370.0 619.928,374.0 613.0,378.0 606.072,374.0" fill="#26a641" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-12-30: 14 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="604.34,375.0 611.268,379.0 604.34,383.0 597.412,379.0" fill="#006d32" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2025-12-31: 10 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="595.68,380.0 602.608,384.0 595.68,388.0 588.752,384.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2026-01-01: 5 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="587.02,385.0 593.948,389.0 587.02,393.0 580.092,389.0" fill="#26a641" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2026-01-02: 14 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="578.36,390.0 585.288,394.0 578.36,398.0 571.432,394.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2026-01-03: 3 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="569.7,395.0 576.628,399.0 569.7,403.0 562.772,399.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2026-01-04: 1 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="561.04,400.0 567.968,404.0 561.04,408.0 554.112,404.0" fill="#26a641" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2026-01-05: 12 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="621.66,375.0 628.588,379.0 621.66,383.0 614.732,379.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2026-01-06: 2 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="613.0,380.0 619.928,384.0 613.0,388.0 606.072,384.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2026-01-07: 6 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="604.3399999999999,385.0 611.2679999999999,389.0 604.3399999999999,393.0 597.4119999999999,389.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2026-01-08: 5 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="595.68,390.0 602.608,394.0 595.68,398.0 588.752,394.0" fill="#006d32" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2026-01-09: 10 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="587.02,395.0 593.948,399.0 587.02,403.0 580.092,399.0" fill="#161b22" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2026-01-10: 2 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="578.36,400.0 585.288,404.0 578.36,408.0 571.432,404.0" fill="#0e4429" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2026-01-11: 5 contributions</title>
+                </polygon>
+            </g>
+            
+
+            <g class="day" opacity="0.9">
+                <polygon points="569.6999999999999,405.0 576.6279999999999,409.0 569.6999999999999,413.0 562.7719999999999,409.0" fill="#26a641" stroke="#36BCF7" stroke-width="0.3" filter="url(#glow)">
+                    <title>2026-01-12: 15 contributions</title>
+                </polygon>
+            </g>
+            
+
+    <text x="450.0" y="40" font-family="Arial, sans-serif" font-size="24" fill="#36BCF7" text-anchor="middle" font-weight="bold">
+        📅 Contribution Activity
+    </text>
+    
+<text x="270.0" y="350" font-family="Arial" font-size="12" fill="#C9D1D9">Less</text>
+<rect x="310.0" y="338" width="15" height="15" fill="#161b22" stroke="#36BCF7" stroke-width="0.5" rx="2"/>
+<rect x="330.0" y="338" width="15" height="15" fill="#0e4429" stroke="#36BCF7" stroke-width="0.5" rx="2"/>
+<rect x="350.0" y="338" width="15" height="15" fill="#006d32" stroke="#36BCF7" stroke-width="0.5" rx="2"/>
+<rect x="370.0" y="338" width="15" height="15" fill="#26a641" stroke="#36BCF7" stroke-width="0.5" rx="2"/>
+<rect x="390.0" y="338" width="15" height="15" fill="#39d353" stroke="#36BCF7" stroke-width="0.5" rx="2"/>
+<text x="420.0" y="350" font-family="Arial" font-size="12" fill="#C9D1D9">More</text>
+
+    <text x="750" y="340" font-family="Arial" font-size="14" fill="#36BCF7" font-weight="bold">
+        Total: 2449 contributions
+    </text>
+    
+</svg>

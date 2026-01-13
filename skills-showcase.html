@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Language Skills Showcase</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);
+            color: #C9D1D9;
+            padding: 40px;
+            min-height: 100vh;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: rgba(22, 27, 34, 0.8);
+            border-radius: 20px;
+            padding: 40px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.5);
+            border: 1px solid rgba(54, 188, 247, 0.1);
+        }
+
+        h1 {
+            color: #36BCF7;
+            text-align: center;
+            margin-bottom: 40px;
+            font-size: 2.5em;
+            text-shadow: 0 0 20px rgba(54, 188, 247, 0.5);
+        }
+
+        .skills-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 30px;
+            margin-top: 30px;
+        }
+
+        .skill-card {
+            background: linear-gradient(135deg, rgba(54, 188, 247, 0.1) 0%, rgba(54, 188, 247, 0.05) 100%);
+            padding: 30px;
+            border-radius: 15px;
+            border: 1px solid rgba(54, 188, 247, 0.3);
+            transition: all 0.3s ease;
+        }
+
+        .skill-card:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 15px 40px rgba(54, 188, 247, 0.3);
+            border-color: #36BCF7;
+        }
+
+        .skill-header {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            margin-bottom: 20px;
+        }
+
+        .skill-icon {
+            font-size: 3em;
+        }
+
+        .skill-title {
+            color: #36BCF7;
+            font-size: 1.5em;
+            font-weight: bold;
+        }
+
+        .skill-description {
+            color: #C9D1D9;
+            line-height: 1.6;
+            margin-bottom: 15px;
+        }
+
+        .skill-level {
+            background: rgba(54, 188, 247, 0.2);
+            height: 10px;
+            border-radius: 5px;
+            overflow: hidden;
+            margin-top: 15px;
+        }
+
+        .skill-level-fill {
+            height: 100%;
+            background: linear-gradient(90deg, #36BCF7 0%, #39d353 100%);
+            transition: width 1s ease;
+            box-shadow: 0 0 10px rgba(54, 188, 247, 0.5);
+        }
+
+        .demo-section {
+            margin-top: 50px;
+            padding: 30px;
+            background: rgba(0, 0, 0, 0.3);
+            border-radius: 15px;
+            border: 1px solid rgba(54, 188, 247, 0.2);
+        }
+
+        .demo-title {
+            color: #36BCF7;
+            font-size: 1.8em;
+            margin-bottom: 20px;
+        }
+
+        .demo-output {
+            background: #0d1117;
+            padding: 20px;
+            border-radius: 10px;
+            border: 1px solid #36BCF7;
+            font-family: 'Courier New', monospace;
+            color: #39d353;
+            min-height: 100px;
+            margin-top: 15px;
+        }
+
+        button {
+            background: linear-gradient(135deg, #36BCF7 0%, #39d353 100%);
+            color: #0d1117;
+            border: none;
+            padding: 15px 30px;
+            border-radius: 10px;
+            font-size: 1.1em;
+            font-weight: bold;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            margin-top: 20px;
+        }
+
+        button:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 10px 30px rgba(54, 188, 247, 0.5);
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .skill-card {
+            animation: fadeIn 0.6s ease-out;
+        }
+
+        .skill-card:nth-child(2) { animation-delay: 0.1s; }
+        .skill-card:nth-child(3) { animation-delay: 0.2s; }
+        .skill-card:nth-child(4) { animation-delay: 0.3s; }
+        .skill-card:nth-child(5) { animation-delay: 0.4s; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>💻 Language Skills Showcase</h1>
+
+        <div class="skills-grid">
+            <div class="skill-card">
+                <div class="skill-header">
+                    <div class="skill-icon">📜</div>
+                    <div class="skill-title">JavaScript</div>
+                </div>
+                <div class="skill-description">
+                    Dynamic, versatile language for building interactive web applications and modern UIs.
+                </div>
+                <div class="skill-level">
+                    <div class="skill-level-fill" style="width: 90%;"></div>
+                </div>
+            </div>
+
+            <div class="skill-card">
+                <div class="skill-header">
+                    <div class="skill-icon">🌐</div>
+                    <div class="skill-title">HTML</div>
+                </div>
+                <div class="skill-description">
+                    The backbone of the web - semantic markup for creating structured, accessible content.
+                </div>
+                <div class="skill-level">
+                    <div class="skill-level-fill" style="width: 95%;"></div>
+                </div>
+            </div>
+
+            <div class="skill-card">
+                <div class="skill-header">
+                    <div class="skill-icon">🐘</div>
+                    <div class="skill-title">PHP</div>
+                </div>
+                <div class="skill-description">
+                    Server-side scripting for dynamic web applications and robust backend solutions.
+                </div>
+                <div class="skill-level">
+                    <div class="skill-level-fill" style="width: 85%;"></div>
+                </div>
+            </div>
+
+            <div class="skill-card">
+                <div class="skill-header">
+                    <div class="skill-icon">🐍</div>
+                    <div class="skill-title">Python</div>
+                </div>
+                <div class="skill-description">
+                    Powerful, clean syntax for everything from automation to data science and web development.
+                </div>
+                <div class="skill-level">
+                    <div class="skill-level-fill" style="width: 88%;"></div>
+                </div>
+            </div>
+
+            <div class="skill-card">
+                <div class="skill-header">
+                    <div class="skill-icon">🎨</div>
+                    <div class="skill-title">CSS</div>
+                </div>
+                <div class="skill-description">
+                    Crafting beautiful, responsive designs with modern styling and animations.
+                </div>
+                <div class="skill-level">
+                    <div class="skill-level-fill" style="width: 92%;"></div>
+                </div>
+            </div>
+        </div>
+
+        <div class="demo-section">
+            <div class="demo-title">🚀 Interactive Demo</div>
+            <p style="margin-bottom: 15px;">Click the button to see JavaScript in action!</p>
+            <button onclick="runDemo()">Run Demo</button>
+            <div class="demo-output" id="output">
+                Click the button above to see the demo...
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function runDemo() {
+            const output = document.getElementById('output');
+            output.innerHTML = '';
+            
+            const languages = [
+                { name: 'JavaScript', emoji: '📜', power: 'Interactive web apps' },
+                { name: 'HTML', emoji: '🌐', power: 'Web structure' },
+                { name: 'PHP', emoji: '🐘', power: 'Server-side magic' },
+                { name: 'Python', emoji: '🐍', power: 'Automation & AI' },
+                { name: 'CSS', emoji: '🎨', power: 'Beautiful designs' }
+            ];
+
+            let html = '<div style="color: #36BCF7; font-weight: bold; margin-bottom: 15px;">⚡ Language Arsenal ⚡</div>';
+            
+            languages.forEach((lang, index) => {
+                setTimeout(() => {
+                    html += `<div style="margin: 10px 0;">${lang.emoji} ${lang.name}: ${lang.power}</div>`;
+                    output.innerHTML = html;
+                }, index * 300);
+            });
+
+            setTimeout(() => {
+                html += '<div style="margin-top: 20px; color: #39d353; font-weight: bold;">✨ All systems operational! ✨</div>';
+                output.innerHTML = html;
+            }, languages.length * 300 + 500);
+        }
+
+        // Auto-scroll animation for skill bars
+        window.addEventListener('load', () => {
+            const fills = document.querySelectorAll('.skill-level-fill');
+            fills.forEach((fill, index) => {
+                setTimeout(() => {
+                    fill.style.width = fill.style.width;
+                }, index * 100);
+            });
+        });
+    </script>
+</body>
+</html>
