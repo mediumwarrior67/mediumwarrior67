@@ -45,7 +45,7 @@ const developer = {
 
 ### Backend & Databases
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,mongodb,postgres,mysql,sqlite" alt="Backend & Databases" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,mongodb,postgresql,mysql,sqlite" alt="Backend & Databases" />
 </p>
 
 ### DevOps & Tools
