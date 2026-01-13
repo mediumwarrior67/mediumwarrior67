@@ -11,10 +11,7 @@
 ## 📅 Contribution Activity
 
 <div align="center">
-  <picture>
-    <source media="(max-width: 768px)" srcset="./contribution-calendar.svg" width="100%">
-    <img src="./contribution-calendar.svg" alt="Isometric Calendar" width="95%"/>
-  </picture>
+  <img src="./contribution-calendar.svg" alt="Isometric Calendar" width="95%"/>
 </div>
 
 <br/>
