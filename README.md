@@ -11,10 +11,16 @@
 ## 📅 Contribution Activity
 
 <div align="center">
-  <img src="./contribution-calendar.svg" alt="Isometric Calendar" width="100%"/>
+  <picture>
+    <source media="(max-width: 768px)" srcset="./contribution-calendar.svg" width="100%">
+    <img src="./contribution-calendar.svg" alt="Isometric Calendar" width="95%"/>
+  </picture>
 </div>
 
-> 🎨 **Smooth isometric design** inspired by modern data visualization - [View Interactive Version](./isometric-calendar.html)
+<br/>
+
+> 🎨 **Smooth isometric design** inspired by modern data visualization<br/>
+> [View Interactive Version](./isometric-calendar.html)
 
 ---
 
@@ -50,12 +56,14 @@
 ## 📊 GitHub Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mediumwarrior67&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=C9D1D9" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mediumwarrior67&theme=react&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=FFA500&currStreakLabel=36BCF7" alt="GitHub Streak" height="180"/>
+  
+<img src="https://github-readme-stats.vercel.app/api?username=mediumwarrior67&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=C9D1D9" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mediumwarrior67&theme=react&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=FFA500&currStreakLabel=36BCF7" alt="GitHub Streak" width="49%" />
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mediumwarrior67&langs_count=5&hide=java,typescript&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=C9D1D9" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mediumwarrior67&langs_count=5&hide=java,typescript&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=C9D1D9" alt="Top Languages" width="60%"/>
 </div>
 
 ---

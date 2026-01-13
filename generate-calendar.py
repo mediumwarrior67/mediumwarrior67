@@ -38,14 +38,14 @@ def get_color_for_level(level):
     }
     return colors.get(level, colors[0])
 
-def create_isometric_svg(data, width=900, height=400):
+def create_isometric_svg(data, width=1000, height=450):
     """Create an isometric-style SVG calendar"""
     
     # Calculate grid dimensions
     weeks = 52
     days_per_week = 7
-    cell_size = 8
-    gap = 2
+    cell_size = 7
+    gap = 1.5
     
     # Isometric transformation parameters
     angle = 30  # degrees
@@ -69,9 +69,9 @@ def create_isometric_svg(data, width=900, height=400):
     </defs>
     ''')
     
-    # Calculate starting position
-    start_x = width * 0.2
-    start_y = height * 0.3
+    # Calculate starting position (centered better)
+    start_x = width * 0.25
+    start_y = height * 0.25
     
     # Group data by week
     week_data = [data[i:i+7] for i in range(0, len(data), 7)]
@@ -98,29 +98,29 @@ def create_isometric_svg(data, width=900, height=400):
             </g>
             ''')
     
-    # Add title
+    # Add title with better positioning
     svg_parts.append(f'''
-    <text x="{width/2}" y="40" font-family="Arial, sans-serif" font-size="24" fill="#36BCF7" text-anchor="middle" font-weight="bold">
+    <text x="{width/2}" y="35" font-family="Arial, sans-serif" font-size="28" fill="#36BCF7" text-anchor="middle" font-weight="bold">
         📅 Contribution Activity
     </text>
     ''')
     
-    # Add legend
-    legend_y = height - 50
-    legend_x = width * 0.3
-    svg_parts.append(f'<text x="{legend_x}" y="{legend_y}" font-family="Arial" font-size="12" fill="#C9D1D9">Less</text>')
+    # Add legend with better sizing
+    legend_y = height - 40
+    legend_x = width * 0.35
+    svg_parts.append(f'<text x="{legend_x}" y="{legend_y}" font-family="Arial" font-size="13" fill="#C9D1D9">Less</text>')
     
     for i in range(5):
         color = get_color_for_level(i)
-        rect_x = legend_x + 40 + (i * 20)
-        svg_parts.append(f'<rect x="{rect_x}" y="{legend_y - 12}" width="15" height="15" fill="{color}" stroke="#36BCF7" stroke-width="0.5" rx="2"/>')
+        rect_x = legend_x + 45 + (i * 22)
+        svg_parts.append(f'<rect x="{rect_x}" y="{legend_y - 13}" width="16" height="16" fill="{color}" stroke="#36BCF7" stroke-width="0.5" rx="2"/>')
     
-    svg_parts.append(f'<text x="{legend_x + 150}" y="{legend_y}" font-family="Arial" font-size="12" fill="#C9D1D9">More</text>')
+    svg_parts.append(f'<text x="{legend_x + 165}" y="{legend_y}" font-family="Arial" font-size="13" fill="#C9D1D9">More</text>')
     
-    # Calculate and display stats
+    # Calculate and display stats with better positioning
     total = sum(d['count'] for d in data)
     svg_parts.append(f'''
-    <text x="{width - 150}" y="{height - 60}" font-family="Arial" font-size="14" fill="#36BCF7" font-weight="bold">
+    <text x="{width - 120}" y="{height - 50}" font-family="Arial" font-size="15" fill="#36BCF7" font-weight="bold">
         Total: {total} contributions
     </text>
     ''')
