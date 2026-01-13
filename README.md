@@ -17,9 +17,6 @@
 <br>
 
 <div align="center">
-<table>
-<tr>
-<td width="50%" align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 10px; padding: 20px;">
 
 ## 🎯 About Me
 
@@ -33,9 +30,6 @@ const developer = {
 };
 ```
 
-</td>
-</tr>
-</table>
 </div>
 
 <br>
