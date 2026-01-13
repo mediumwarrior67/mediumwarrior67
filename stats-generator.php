@@ -26,12 +26,20 @@ class GitHubStatsGenerator {
     
     public function getLanguageBreakdown() {
         $breakdown = [];
-        $total = 100;
+        $remaining = 100;
+        $count = count($this->languages);
         
-        foreach ($this->languages as $lang) {
-            $percentage = rand(10, 30);
-            $breakdown[$lang] = min($percentage, $total);
-            $total -= $breakdown[$lang];
+        foreach ($this->languages as $index => $lang) {
+            // For the last language, give it all remaining percentage
+            if ($index === $count - 1) {
+                $breakdown[$lang] = $remaining;
+            } else {
+                // Distribute more evenly
+                $maxAllocation = min(30, $remaining - ($count - $index - 1) * 10);
+                $percentage = rand(15, $maxAllocation);
+                $breakdown[$lang] = $percentage;
+                $remaining -= $percentage;
+            }
         }
         
         return $breakdown;

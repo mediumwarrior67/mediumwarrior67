@@ -6,7 +6,6 @@ This script creates a beautiful isometric calendar visualization
 
 import random
 from datetime import datetime, timedelta
-import math
 
 def generate_contribution_data(days=365):
     """Generate random contribution data for demonstration"""
