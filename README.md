@@ -36,100 +36,22 @@ const developer = {
 
 <div align="center">
 
-## 🚀 Tech Arsenal
+## 🚀 Tech Stack
 
-<table>
-<tr>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=js" width="50" height="50" alt="JavaScript" />
-<br>JavaScript
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=ts" width="50" height="50" alt="TypeScript" />
-<br>TypeScript
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python" />
-<br>Python
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=java" width="50" height="50" alt="Java" />
-<br>Java
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=react" width="50" height="50" alt="React" />
-<br>React
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" alt="Next.js" />
-<br>Next.js
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node.js" />
-<br>Node.js
-</td>
-</tr>
-<tr>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=express" width="50" height="50" alt="Express" />
-<br>Express
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=django" width="50" height="50" alt="Django" />
-<br>Django
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=flask" width="50" height="50" alt="Flask" />
-<br>Flask
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" alt="MongoDB" />
-<br>MongoDB
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=postgresql" width="50" height="50" alt="PostgreSQL" />
-<br>PostgreSQL
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" alt="MySQL" />
-<br>MySQL
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=docker" width="50" height="50" alt="Docker" />
-<br>Docker
-</td>
-</tr>
-<tr>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git" />
-<br>Git
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub" />
-<br>GitHub
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=aws" width="50" height="50" alt="AWS" />
-<br>AWS
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" alt="VS Code" />
-<br>VS Code
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=postman" width="50" height="50" alt="Postman" />
-<br>Postman
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=figma" width="50" height="50" alt="Figma" />
-<br>Figma
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML" />
-<br>HTML
-</td>
-</tr>
-</table>
+### Languages & Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css,react,nextjs" alt="Languages & Frontend" />
+</p>
+
+### Backend & Databases
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,mongodb,postgres,mysql,sqlite" alt="Backend & Databases" />
+</p>
+
+### DevOps & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,aws,heroku,vscode,postman,figma" alt="DevOps & Tools" />
+</p>
 
 </div>
 
