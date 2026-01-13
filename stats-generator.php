@@ -204,11 +204,13 @@ HTML;
 LANG;
         }
 
+        $timestamp = date('Y-m-d H:i:s');
+        
         $html .= <<<HTML
         </div>
         
         <p style="text-align: center; margin-top: 40px; color: #36BCF7;">
-            ✨ Powered by PHP | Generated on <?php echo date('Y-m-d H:i:s'); ?>
+            ✨ Powered by PHP | Generated on {$timestamp}
         </p>
     </div>
 </body>
