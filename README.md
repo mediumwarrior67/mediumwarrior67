@@ -1,127 +1,132 @@
-## Hi there 👋
+<!-- ─────────────────────────────  HEADER  ───────────────────────────── -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20the%20Galaxy!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=38&duration=2800&pause=1000&color=00F7F7&center=true&vCenter=true&width=720&height=80&lines=%3E+hey%2C+i'm+mediumwarrior67;%3E+i+build+%2B+break+things;%3E+mostly+on+purpose" alt="intro" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=false&width=435&lines=Full+Stack+Developer+%F0%9F%9A%80;Code+Explorer+%F0%9F%8C%8C;Tech+Enthusiast+%E2%9C%A8" alt="Typing SVG" />
-</div>
+<br>
 
-## 🌌 About Me
+<!-- ─────────────────────────────  WHOAMI  ───────────────────────────── -->
 
-```javascript
-const mediumwarrior67 = {
-    pronouns: "He/Him",
-    location: "Earth 🌍",
-    currentMission: "Building amazing projects",
-    interests: ["Coding", "Space", "Technology", "Innovation"],
-    funFact: "I believe code can change the universe! 🌟"
+```ts
+const me = {
+  role:     "full-stack dev",
+  current:  "shipping side projects faster than i can name them",
+  learning: "whatever's interesting this week",
+  ask_me:   ["web", "servers", "weird api integrations"],
+  motto:    "ship it. fix it tomorrow."
 };
 ```
 
-## 🛸 Tech Stack
+<!-- ─────────────────────────────  STACK  ───────────────────────────── -->
 
-### 💻 Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
+### `~/ stack`
 
-### 🚀 Frameworks & Libraries
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-</p>
+<table>
+  <tr>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/typescript/3178C6" width="36" /><br><sub>ts</sub></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/react/61DAFB" width="36" /><br><sub>react</sub></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/nextdotjs/white" width="36" /><br><sub>next</sub></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="36" /><br><sub>tailwind</sub></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/nodedotjs/339933" width="36" /><br><sub>node</sub></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/python/3776AB" width="36" /><br><sub>python</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/postgresql/4169E1" width="36" /><br><sub>postgres</sub></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/mongodb/47A248" width="36" /><br><sub>mongo</sub></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/docker/2496ED" width="36" /><br><sub>docker</sub></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" width="36" /><br><sub>aws</sub></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/git/F05032" width="36" /><br><sub>git</sub></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/linux/FCC624" width="36" /><br><sub>linux</sub></td>
+  </tr>
+</table>
 
-### 🗄️ Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-</p>
+<!-- ─────────────────────────────  STATS  ───────────────────────────── -->
 
-### ☁️ Cloud & DevOps
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku"/>
-</p>
-
-### 🛠️ Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
-</p>
-
-## 📊 GitHub Stats
+### `~/ stats`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mediumwarrior67&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mediumwarrior67&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=00F7F7&currStreakLabel=00F7F7" alt="GitHub Streak" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mediumwarrior67&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00F7F7&text_color=c9d1d9&icon_color=00F7F7&hide=contribs" height="165" />
+  <img src="https://streak-stats.demolab.com?user=mediumwarrior67&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=00F7F7&currStreakLabel=00F7F7&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" height="165" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mediumwarrior67&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mediumwarrior67&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=c9d1d9&langs_count=8&card_width=480" height="165" />
 </div>
 
-## 🌟 Featured Projects
+<!-- ─────────────────────────────  SNAKE  ───────────────────────────── -->
 
-<div align="center">
-  <a href="https://github.com/mediumwarrior67">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mediumwarrior67&repo=mediumwarrior67&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF" alt="Featured Repo"/>
-  </a>
-</div>
+### `~/ contributions`
 
-## 🎯 Current Mission
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mediumwarrior67/mediumwarrior67/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mediumwarrior67/mediumwarrior67/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/mediumwarrior67/mediumwarrior67/output/github-contribution-grid-snake.svg" />
+</picture>
 
-- 🔭 Building innovative web applications
-- 🌱 Learning new technologies and frameworks
-- 👯 Open to collaborate on exciting projects
-- 💡 Always exploring the frontiers of tech
+<!-- ─────────────────────────────  ACTIVITY  ───────────────────────────── -->
 
-## 📫 Connect With Me
+### `~/ activity`
 
-<p align="center">
-  <a href="https://github.com/mediumwarrior67">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-</p>
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mediumwarrior67&bg_color=0D1117&color=00F7F7&line=00F7F7&point=ffffff&area=true&hide_border=true&custom_title=commits%20over%20time)](https://github.com/mediumwarrior67)
 
-## 🎨 Profile Views
+<!-- ─────────────────────────────  CONTACT  ───────────────────────────── -->
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mediumwarrior67&color=00F7F7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-</div>
+### `~/ find me`
+
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/-twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+
+<br>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+  <sub>⚡ <i>"the best code is the code that ships"</i></sub>
 </div>
 
-<div align="center">
-  <i>⭐️ From <a href="https://github.com/mediumwarrior67">mediumwarrior67</a> - Let's build the future together! 🚀</i>
-</div>
+<!-- ─────────────────────────────  SETUP NOTE  ───────────────────────────── -->
+
+<details>
+<summary><sub>⚙️ snake animation setup (one-time)</sub></summary>
+
+<br>
+
+The snake gif needs a tiny GitHub Action to regenerate itself. In your `mediumwarrior67/mediumwarrior67` repo:
+
+1. Create the file `.github/workflows/snake.yml`
+2. Paste this in:
+
+```yaml
+name: generate snake
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#00F7F7&color_dots=#0D1117,#0E4429,#006D32,#26A641,#39D353
+
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+3. Go to the **Actions** tab → "generate snake" → **Run workflow** once to seed it. After that it auto-regenerates every 6 hours.
+
+</details>
